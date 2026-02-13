@@ -3470,24 +3470,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rasmu\\.nuget\\packages\\": {}
+    "/home/serverpc/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rasmu\\Desktop\\MyLocationApp\\Backend\\Backend.csproj",
+      "projectUniqueName": "/home/serverpc/Oma/VsCode/MyLocation/MyLocationApp/Backend/Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\rasmu\\Desktop\\MyLocationApp\\Backend\\Backend.csproj",
-      "packagesPath": "C:\\Users\\rasmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rasmu\\Desktop\\MyLocationApp\\Backend\\obj\\",
+      "projectPath": "/home/serverpc/Oma/VsCode/MyLocation/MyLocationApp/Backend/Backend.csproj",
+      "packagesPath": "/home/serverpc/.nuget/packages/",
+      "outputPath": "/home/serverpc/Oma/VsCode/MyLocation/MyLocationApp/Backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rasmu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/serverpc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3554,7 +3555,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
